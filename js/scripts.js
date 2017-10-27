@@ -2,11 +2,11 @@ function numberFunction(userInput) {
   var numbers = [];
   for (var i = 0; i <= userInput; i++) {
 
-console.log(i);
+//console.log(i);
 
 }
 }
-numberFunction();
+
 
 
 $(document).ready(function() {
@@ -16,7 +16,7 @@ $(document).ready(function() {
     var output = numberFunction(userInput);
 
 
-    $(".result").text(output);
+    $("#result").text(output);
 
   });
 });

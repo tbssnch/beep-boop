@@ -1,16 +1,16 @@
 # Beep Boop
-### A tool to translate numerals to Roman numerals 10/26/17
-### Tyler Bussanich
+### A tool that will count up to your desired number, 2017
+### **By Tyler Bussanich**
 
 ## Description
 
 This is a simple tool to translate a single number into a string of numbers from 0 counting to the users desired number.
 
-## Instructions
+## Setup/Installation
 
-* git clone repo (insert repo)
-* open index.html file in browser
-* play away
+Go to tbssnch.github.io
+
+Enter any number into the form and click Submit.
 
 ## Specs
 
@@ -32,22 +32,37 @@ Numbers that are divisible by 3 are replaced with "I'm sorry, Dave. I'm afraid I
 
 
 
-## known bugs
+## Bugs
 
-* not yet :)
+*
 
-## support & contact me
+## Support
 
-We are always open to new tips, tricks, or ideas to make the page run smoother or look better. Email me @ moist.translate@hotmail.com
+Contact Tyler at tbussanich@gmail.com
 
-## tech
+## Technologies Used
 
-* HTML
-* CSS
-* Bootstrap
-* Javascript
-* jQuery
+HTML, CSS, and JavaScript.
 
-## license
 
-Open source. Feel free to pull, copy, edit, etc.
+## License
+
+**Copyright (c) Tyler Bussanich**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
