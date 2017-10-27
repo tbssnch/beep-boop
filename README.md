@@ -8,7 +8,7 @@ This is a simple tool to translate a single number into a string of numbers from
 
 ## Setup/Installation
 
-Go to tbssnch.github.io
+Go to tbssnch.github.io/beep-boop
 
 Enter any number into the form and click Submit.
 
