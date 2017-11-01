@@ -14,21 +14,21 @@ Enter any number into the form and click Submit.
 
 ## Specs
 
-The program takes a number and returns a range of numbers counting up to the provided number.
+The program takes a 0 and replaces it with "Beep!".
+⁃	Example Input: 0
+⁃	Example Output: Beep!
+
+The program takes a 1 and replaces it with "Boop!"
+⁃	Example Input: 1
+⁃	Example Output: Beep!,Boop!
+
+The program takes any number that is divisible by 3 and returns a phrase.
+⁃	Example: 3
+⁃	Example Output: "I'm sorry dave, I can't do that for you!"
+
+The program takes a number and counts up to it in an array.
 ⁃	Example Input: 8
-⁃	Example Output: 0, 1, 2, 3, 4, 5, 6, 7, 8
-
-Numbers that contain a 1 are replaced with "Boop!"
-⁃	Example Input: 11
-⁃	Example Output: Boop!
-
-Numbers that contain a 0 are replaced with "Beep!"
-⁃	Example: 20
-⁃	Example Output: Boop!
-
-Numbers that are divisible by 3 are replaced with "I'm sorry, Dave. I'm afraid I can't do that."
-⁃	Example Input: 15
-⁃	Example Output:  I'm sorry, Dave. I'm afraid I can't do that.
+⁃	Example Output: Beep!,Boop!,2,3,4,5,6,7,8
 
 
 
