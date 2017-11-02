@@ -1,6 +1,5 @@
 function numberFunction(userInput) {
   var numbers = [];
-  var daves =
   for (var i = 0; i <= userInput; i++) {
     if (userInput % 3 === 0) {
       numbers.push("I'm sorry, Dave. I'm afraid I can't do that.");
@@ -14,10 +13,6 @@ function numberFunction(userInput) {
     else {
       numbers.push(i);
     }
-
-    console.log(i);
-
-//console.log(i);
 }
   return numbers;
 }
